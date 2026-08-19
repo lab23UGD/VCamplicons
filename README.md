@@ -11,7 +11,6 @@ Developed at the Genomics and Diabetes Unit, INCLIVA Biomedical Research Institu
 | **Name** | VCamplicons |
 | **Version** | 1.0 |
 | **Creation date** | 2024-07-31 |
-| **Author** | Celeste Moya-Valera |
 | **Reference build** | GRCh38 (no-alt analysis set) |
 
 ## Overview
