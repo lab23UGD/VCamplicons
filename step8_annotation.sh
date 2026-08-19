@@ -53,8 +53,8 @@ echo -e "/_/   \\_\\_| |_|_| |_|\\___/ \\__\\__,_|\\__|_|\\___/|_| |_|"
 echo -e "                                                      ${NC}"
 
 # Database and reference genome paths
-db_vep="/media/scratch/dbs_tmp/vep"
-ref="/media/scratch/FRAN/ReferenceGenome/GCA_000001405.15_GRCh38_no_alt_analysis_set-edit.fa"
+db_vep="dbs_tmp/vep"
+ref="ReferenceGenome/GCA_000001405.15_GRCh38_no_alt_analysis_set-edit.fa"
 
 # Display input information
 echo -e "VEP folder: ${BOLD}${db_vep}${NC}"
