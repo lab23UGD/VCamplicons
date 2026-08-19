@@ -5,10 +5,11 @@
 This pipeline, developed by the Genomic and Diabetes Unit in Valencia, Spain, processes genomic data for quality control, trimming, alignment, variant calling, and annotation. The workflow consists of several sequential steps, executed by various shell scripts. Each step is responsible for a specific part of the data processing workflow.
 
 ## Pipeline Details
-Name: VCamplicons \\
-Creation Date: 2024-07-31 \\
-Version: 1.0 \\
-Author: Celeste Moya-Valera \\
+* Name: VCamplicons
+* Creation Date: 2024-07-31
+* Version: 1.0
+* Author: Celeste Moya-Valera
+
 
 ## Requirements
 * Bash shell
